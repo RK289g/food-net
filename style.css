@@ -1,0 +1,79 @@
+body {
+    font-family: 'Kanit', sans-serif;
+}
+
+section {
+    display: flex;
+}
+
+.second-section {
+    background-color: whitesmoke;
+}
+
+div {
+    padding: 5% 7% 5% 7%;
+}
+
+span {
+    color: #08912ae7;
+}
+
+h1 {
+    font-size: 500%;
+    color: black;
+}
+
+p {
+    color: black;
+    font-size: 150%;
+    font-weight: 550;
+}
+
+.link-button {
+    color: #ceb689;
+    background-image: linear-gradient(red, blue);
+    padding: 1% 1.5%;
+    font-size: x-large;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+h2 {
+    font-size: 300%;
+    color: black
+}
+
+.card {
+    display: flex;
+    justify-content: space-between;
+    gap: 2%;
+}
+
+.food-card {
+    background-color: whitesmoke;
+    text-align: center;
+    border-radius: 5%;
+    box-shadow: 5px;
+}
+
+.photo {
+    margin: 2px 5px 2px;
+    width: 100%;
+}
+
+.recipe {
+    text-align: center;
+}
+
+.social {
+    box-shadow: #310606;
+    margin-left: 10%;
+    margin-right: 10%;
+    justify-content: space-between;
+}
+
+.footer {
+    margin-top: 15px;
+    text-align: center;
+    background-color: #c25353;
+}
